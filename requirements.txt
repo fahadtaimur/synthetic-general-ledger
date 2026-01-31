@@ -1,0 +1,11 @@
+# Current runtime dependencies for the synthetic-gl project
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+
+# Development / CI
+pre-commit
+ruff
+
