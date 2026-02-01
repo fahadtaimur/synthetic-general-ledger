@@ -4,6 +4,7 @@ numpy
 matplotlib
 seaborn
 jupyter
+Faker
 
 # Development / CI
 pre-commit
