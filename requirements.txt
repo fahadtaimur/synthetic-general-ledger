@@ -1,6 +1,8 @@
 # Current runtime dependencies for the synthetic-gl project
-pandas
-numpy
+pandas==2.2.2
+pyarrow==15.0.2
+duckdb==0.10.2
+numpy==1.26.4
 matplotlib
 seaborn
 jupyter
